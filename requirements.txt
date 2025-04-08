@@ -1,4 +1,4 @@
 beautifulsoup4
 libratom
-python-magic
+python-magic-bin
 streamlit
