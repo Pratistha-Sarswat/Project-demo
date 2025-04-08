@@ -1,4 +1,5 @@
-beautifulsoup4
-libratom
-python-magic-bin
-streamlit
+streamlit==1.32.2
+beautifulsoup4==4.12.3
+libratom==0.0.26
+python-magic-bin==0.4.14
+
