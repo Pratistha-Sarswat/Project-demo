@@ -1,5 +1,5 @@
-streamlit==1.32.2
-beautifulsoup4==4.12.3
-libratom==0.0.26
+streamlit==1.44.1
+beautifulsoup4==4.11.1
+libratom==0.7.1
 python-magic-bin==0.4.14
 
